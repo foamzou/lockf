@@ -1,6 +1,5 @@
 # lockf
 
-## About
 A tool from [freebsd](http://sources.freebsd.org/RELENG_7/src/usr.bin/lockf/). Use the tool, can ensure that only one process is running at a time.
 
 ## Usage
