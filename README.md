@@ -4,7 +4,7 @@ A tool from [freebsd](http://sources.freebsd.org/RELENG_7/src/usr.bin/lockf/). U
 
 ## Usage
 * lockf [-ks] [-t seconds] file command [arguments]
-* e.g. ./lockf -s -t 0 /tmp/foam.lock php 1.php
+* e.g. `lockf -s -t 0 /tmp/foam.lock php 1.php`
 * for more, `man lockf` after install
 
 ## Install
